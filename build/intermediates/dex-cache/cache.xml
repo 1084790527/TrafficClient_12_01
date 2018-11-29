@@ -11,33 +11,6 @@
         <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\pre-dexed\debug\volley_942df716920dd952fed9d58affdef046d91abaf6.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\StudioProjects\TrafficClient_12_01\app\libs\android-async-http-1.4.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
-        <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.3_3504327c4b3b99499c240f8a999596dd76715497\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_485cd498187fdf8dc13ca93f60979c44e5e6fc9d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\StudioProjects\TrafficClient_12_01\app\libs\volley.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
-        <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_942df716920dd952fed9d58affdef046d91abaf6\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="D:\StudioProjects\TrafficClient_12_01\app\libs\android-async-http-1.4.3.jar"
         jumboMode="false"
@@ -54,24 +27,6 @@
         revision="25.0.0"
         sha1="24fd4ac028b51cec5cc84cd3fbed25fa6ad32b5c">
         <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\pre-dexed\debug\achartengine_4dafd49f1066737ffcf249ca1457b486ec3b78bd.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="29e164506150ee56dafc56652be863adfcf2a1b4">
-        <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_55bcfcbf66053bcbb9faa2874434301533fee72b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\StudioProjects\TrafficClient_12_01\app\libs\achartengine.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="24fd4ac028b51cec5cc84cd3fbed25fa6ad32b5c">
-        <dex dex="D:\StudioProjects\TrafficClient_12_01\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine_4dafd49f1066737ffcf249ca1457b486ec3b78bd\classes.dex" />
     </item>
 
 </items>
