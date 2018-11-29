@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\volley_86be82b2c205335357911e33c86a367cc57d3c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\libs\achartengine.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24fd4ac028b51cec5cc84cd3fbed25fa6ad32b5c">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\achartengine_c5a6994b2f609ef3fab2f37b911524181c5e2799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TrafficClient\app\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="D:\TrafficClient\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3_11fe8b65b2120a424945459d8efcccc9ee49019c.jar" />
+    </item>
+
+</items>
